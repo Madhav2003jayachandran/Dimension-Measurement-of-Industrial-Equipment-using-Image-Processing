@@ -1,1 +1,1 @@
-# Dimension-Measurement-of-Industrial-Equipment-using-Image-Processing
+This projects aims in calculating the dimension of an object . Screw dataset is used in this project. Thresholding for object detection by using Otsu's Algorithm and contour detection for object measurement . Drawing a bounding box and getting its coordinates and measure the distance
